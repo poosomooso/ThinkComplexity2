@@ -1,0 +1,4 @@
+Hidalgo, César A., and Ricardo Hausmann. “The Building Blocks of Economic Complexity.” Proceedings of the National Academy of Sciences, National Acad Sciences, 1 May 2009, www.pnas.org/content/106/26/10570.full.
+
+
+Hidalgo and Hausmann study complexity in economics, specifically in the diversity or specialization of exported products for countries, and how it correlates with GDP and other growth measures. They mostly use adjacency matrices as a way to model different layers of diversity and to what extent a certain country produces different products than another country. They then try to use these models and find a correlation between the modeled measures of diversification/complexity and the levels of GDP in those countries. The article shows that there is a strong correlation and offers some insight into why they may exist.
