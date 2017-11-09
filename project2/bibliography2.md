@@ -1,0 +1,4 @@
+M. Batty, Yichun Xie, Zhanli Sun, Modeling urban dynamics through GIS-based cellular automata, In Computers, Environment and Urban Systems, Volume 23, Issue 3, 1999, Pages 205-233, ISSN 0198-9715, https://doi.org/10.1016/S0198-9715(99)00015-0.
+(http://www.sciencedirect.com/science/article/pii/S0198971599000150)
+
+In this paper, the authors develop a model for urban dynamics through cellular automata, specifically how the amount and type of activity in a cell is influenced by the amount and type of activity in a neighboring cell. Further, each activity type has a different set of rules that governs its behaviors. For example,a cell is eligible for housing activity if it is in an area with sufficient density of transportation cells. They describe a program they made based off GIS and this model, and they then simulate a host of different situations.
